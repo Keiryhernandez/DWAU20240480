@@ -1,0 +1,7 @@
+import React from 'react';
+
+function Encabezado() {
+  return <h1>Bienvenidos</h1>;
+}
+
+export default Encabezado;
